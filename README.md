@@ -1,6 +1,6 @@
 # Hey, I'm Pratham 👋
 
-![](https://komarev.com/ghpvc/?username=Pratham-mehta) | [![Twitter Badge](https://img.shields.io/badge/-@Pratham1174933-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Pratham1174933)](https://twitter.com/Pratham1174933)
+![](https://komarev.com/ghpvc/?username=Pratham-mehta)  [![Twitter Badge](https://img.shields.io/badge/-@Pratham1174933-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Pratham1174933)](https://twitter.com/Pratham1174933)
  [![LinkedIn Badge](https://img.shields.io/badge/-Pratham%20Mehta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/prathammehta1999)](https://in.linkedin.com/in/prathammehta1999)
 
 
